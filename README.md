@@ -6,3 +6,6 @@ The online store "Wikishop" launches a new service. Now users can edit and suppl
 We'll train the model to classify comments into positive and negative. We have a data set with markup about the toxicity of edits.
 
 
+```
+The text column in it contains the text of the comment, and toxic contains the target attribute.
+```
